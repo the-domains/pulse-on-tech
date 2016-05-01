@@ -1,0 +1,28 @@
+name: Pulse on Tech
+favicon: null
+layout_spectrum: 0.05045964824967086
+typography_spectrum: 0.594866652507335
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4098456499632448
+  lightness: 0.5034059714525938
+  saturation: 0.46361246961168945
+  rhythmicContrast: 0.986915938789025
+purpose: []
