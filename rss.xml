@@ -4,8 +4,15 @@
         <description><![CDATA[The Pulse]]></description>
         <link>https://thegrid.ai/pulse-on-tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 01:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 01:17:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pulse-on-tech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c21e8c9a-6bb5-45b2-b832-c6f43e7550cf.jpg">]]></description>
+            <link>https://plus.google.com/+Techsmartreviews</link>
+            <guid isPermaLink="false">ecc548bc-9ce2-4241-ab48-3b3a141ccdaa</guid>
+            <pubDate>Sun, 01 May 2016 01:17:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TechSmart Reviews | Devialet Silver Phantom WiFi Speaker]]></title>
             <description><![CDATA[<article><h1>TechSmart Reviews | Devialet Silver Phantom WiFi Speaker</h1><p>TechSmart Reviews specializes in advertisment free Cool High End Consumer Electronics Tech Reviews.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85807642cbed3c8065fb0df816b7d70c5f746a2b.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://www.cnet.com/products/acer-predator-15/#p=acer-predator-15-g9-591-74kn</link>
             <guid isPermaLink="false">94c67d32-215a-4549-a50a-8431502b0af0</guid>
             <pubDate>Sun, 01 May 2016 01:16:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c21e8c9a-6bb5-45b2-b832-c6f43e7550cf.jpg">]]></description>
-            <link>https://plus.google.com/+Techsmartreviews</link>
-            <guid isPermaLink="false">ecc548bc-9ce2-4241-ab48-3b3a141ccdaa</guid>
-            <pubDate>Sun, 01 May 2016 01:08:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
