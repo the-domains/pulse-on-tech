@@ -6,9 +6,11 @@ isBasedOnUrl: 'https://plus.google.com/+Techsmartreviews'
 inLanguage: null
 keywords: []
 description: "iPad Pro 9.7'' Review by Mikael Romo The laptop-tablet 2-in-1 hybrid. It's in the market--people want it--and tech companies are scrambling to design products that outcompete the competition. Apple got in the game with the original iPad Pro, a 12.9' device that sports the sleek Pencil as well as the Smart Keyboard. Now, Apple brings you the new iPad Pro 9.7', a device that distinguishes itself as a 2-in-1."
-datePublished: '2016-05-01T01:18:22.583Z'
-dateModified: '2016-05-01T01:18:00.679Z'
-author: []
+datePublished: '2016-05-01T01:22:01.129Z'
+dateModified: '2016-05-01T01:22:00.790Z'
+author:
+  - name: ''
+    url: ''
 title: ''
 sourcePath: _posts/2016-05-01-ipad-pro-97-review-by-mikael-romo-the-laptop-tablet-2-in-.md
 published: true
@@ -18,7 +20,7 @@ publisher:
   domain: plus.google.com
   url: null
   favicon: null
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: Article
 
