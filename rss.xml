@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Pulse on Tech]]></title>
-        <description><![CDATA[Pulse on Tech]]></description>
+        <title><![CDATA[The Pulse]]></title>
+        <description><![CDATA[The Pulse]]></description>
         <link>https://thegrid.ai/pulse-on-tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 00:31:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 00:33:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pulse-on-tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-0/s480x480/12987222_475987012597978_6875516580021198628_n.jpg?oh=18660f3094f9e0c904a627e055e9914b&oe=579BDA38">]]></description>
-            <link>https://thegrid.ai/pulse-on-tech/1ebf2aaf-a2de-4985-a9cd-c039c9bd03ef/index.html</link>
-            <guid isPermaLink="false">1ebf2aaf-a2de-4985-a9cd-c039c9bd03ef</guid>
-            <pubDate>Sun, 01 May 2016 00:31:46 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ae45255-a374-4f26-a23c-266ca95b8fc0.jpg">]]></description>
