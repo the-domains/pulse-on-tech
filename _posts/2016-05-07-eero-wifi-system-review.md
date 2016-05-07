@@ -1,14 +1,16 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-07T11:32:17.273Z'
-dateModified: '2016-05-07T11:16:14.104Z'
+datePublished: '2016-05-07T11:35:30.662Z'
+dateModified: '2016-05-07T11:35:09.133Z'
 title: eero WiFi System Review
 author: []
+sourcePath: _posts/2016-05-07-eero-wifi-system-review.md
 authors: []
 publisher:
   name: null
@@ -16,9 +18,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-07-eero-wifi-system-review.md
-url: eero-wifi-system-review/index.html
-_type: Article
+_type: Blurb
 
 ---
 # eero WiFi System Review
